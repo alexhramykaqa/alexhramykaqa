@@ -1,6 +1,7 @@
 ![Header](https://github.com/alexhramykaqa/alexhramykaqa/blob/main/assets/logo.png)
 
-About me
+##About me
+#Я начинающий QA Engineer
 
 Test documentation
 
