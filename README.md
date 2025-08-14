@@ -1,4 +1,4 @@
-[![Header](https://github.com/alexhramykaqa/alexhramykaqa/blob/main/assets/logo.png)](https://github.com/alexhramykaqa)
+![Header](https://github.com/alexhramykaqa/alexhramykaqa/blob/main/assets/logo.png)
 
 About me
 
