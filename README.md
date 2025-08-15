@@ -24,7 +24,7 @@
 
 <br>
 
-# Langueges
+# Languages
 <img src="https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://img.icons8.com/?size=100&id=lTKW3iI3wIT0&format=png&color=000000" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
